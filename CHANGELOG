@@ -1,3 +1,7 @@
+=== 2.0.5 2015-09-28
+
+* Updated composer package for firebase to halt at 2.x due to method signature changes.
+
 === 2.0.4 2015-05-12
 
 * Switched back to using recommended third-party JWT library.
