@@ -2,7 +2,7 @@
 
 namespace Livefyre\Core;
 
-use JWT;
+use Firebase\JWT\JWT as JWT;
 
 use Livefyre\Model\CollectionData;
 use Livefyre\Exceptions\ApiException;
